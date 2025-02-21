@@ -6,7 +6,9 @@ function App() {
     <>
        <div>
         <p>This is to add in the trendfinder slack bot to slack</p>
-        <a href="https://slack.com/openid/connect/authorize?scope=openid&amp;response_type=code&amp;redirect_uri=https%3A%2F%2Fexample.com&amp;client_id=78859294613.8285283883175" style={{
+        <a
+      href="https://slack.com/openid/connect/authorize?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fexample.com&client_id=78859294613.8285283883175"
+      style={{
         alignItems: "center",
         color: "#000",
         backgroundColor: "#fff",
@@ -20,7 +22,8 @@ function App() {
         justifyContent: "center",
         textDecoration: "none",
         width: "256px",
-      }}><svg
+      }}
+    ><svg
       xmlns="http://www.w3.org/2000/svg"
       style={{ height: "20px", width: "20px", marginRight: "12px" }}
       viewBox="0 0 122.8 122.8"
