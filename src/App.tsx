@@ -7,7 +7,7 @@ function App() {
        <div>
         <p>This is to add in the trendfinder slack bot to slack</p>
         <a
-      href="https://slack.com/openid/connect/authorize?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fexample.com&client_id=78859294613.8285283883175"
+      href="https://slack.com/openid/connect/authorize?scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fhttps://slackbot-page.vercel.groqcloud.net/&client_id=78859294613.8285283883175"
       style={{
         alignItems: "center",
         color: "#000",
